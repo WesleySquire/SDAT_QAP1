@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3c1d87b-c575-447b-b93a-9d1629206d31" name="Changes" comment="Commit1">
+    <list default="true" id="d3c1d87b-c575-447b-b93a-9d1629206d31" name="Changes" comment="Commit2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/keyin/qap1/QAPExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/keyin/qap1/QAPExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/keyin/qap1/QAPExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/keyin/qap1/QAPExampleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_directory_selection": "C:/Users/Wesley Squire/IdeaProjects/SDAT_QAP11/src/main/java",
-    "last_opened_file_path": "E:/Downloads(E)/prettierJS-222.4167.4/prettierJS/lib/intellij.prettierJS.jar",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Wesley Squire/IdeaProjects/SDAT_QAP11/src/main/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Downloads(E)/prettierJS-222.4167.4/prettierJS/lib/intellij.prettierJS.jar&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.keyin.qap1" />
@@ -105,7 +104,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664379558676</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit2">
+      <created>1664380693416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664380693416</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit2">
+      <created>1664380735262</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664380735262</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -132,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit1" />
+    <MESSAGE value="Commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit2" />
   </component>
 </project>
