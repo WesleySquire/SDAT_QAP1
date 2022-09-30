@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d3c1d87b-c575-447b-b93a-9d1629206d31" name="Changes" comment="Commit2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/keyin/qap1/QAPExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/keyin/qap1/QAPExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/keyin/qap1/QAPExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/keyin/qap1/QAPExampleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
       <recent name="com.keyin.qap1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.QAPExampleTest.QAPExampleTest2">
+  <component name="RunManager" selected="JUnit.QAPExampleTest.QAPExampleTest1">
     <configuration name="QAPExampleTest.QAPExampleTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDAT_QAP11" />
       <extension name="coverage">
@@ -83,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.QAPExampleTest.QAPExampleTest2" />
         <item itemvalue="JUnit.QAPExampleTest.QAPExampleTest1" />
+        <item itemvalue="JUnit.QAPExampleTest.QAPExampleTest2" />
       </list>
     </recent_temporary>
   </component>

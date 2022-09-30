@@ -5,7 +5,9 @@ public class QAPExample {
     return charSequence.contains(wordToFind);
     }
 
-    public boolean doesEqualTen(int firstNumber, int numToAdd) {
-        return ((firstNumber + numToAdd) == 10);
+    public boolean doesEqual(int firstNumber, int numToAdd, int numToEqual) {
+        return ((firstNumber + numToAdd) == numToEqual);
     }
+
+
 }
