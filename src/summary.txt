@@ -1,0 +1,11 @@
+findSequenceInWord(String wordToFind, String charSequence)
+findSequenceInWord class tries to find a character sequence(wordToFind) in a given statement(CharSequence).
+returns boolean(true/false) depending on if the charSequence contains wordToFind.
+
+doesEqual(int firstNumber, int numToAdd, int numToEqual)
+doesEqual class tries to add the first number (firstNumber) to the second number(numToAdd) and checks if it equals inputted number (numToEqual)
+returns boolean(true/false) depending on if the firstNumber + numToAdd = numToEqual
+
+russianRoulette(int chamber)
+russianRoulette class tries to be a game depending on your input. You input a number 1-6 (chamber) and depending on the input you get the bullet or not.
+returns String("BANG"/"Click) depending on input.

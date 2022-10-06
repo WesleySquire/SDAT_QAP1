@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3c1d87b-c575-447b-b93a-9d1629206d31" name="Changes" comment="Commit2">
+    <list default="true" id="d3c1d87b-c575-447b-b93a-9d1629206d31" name="Changes" comment="FinalCommit">
+      <change afterPath="$PROJECT_DIR$/src/summary.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/keyin/qap1/QAPExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/keyin/qap1/QAPExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/keyin/qap1/QAPExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/keyin/qap1/QAPExampleTest.java" afterDir="false" />
@@ -50,6 +51,21 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.QAPExampleTest.QAPExampleTest1">
+    <configuration name="QAPExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDAT_QAP11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.keyin.qap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.keyin.qap1" />
+      <option name="MAIN_CLASS_NAME" value="com.keyin.qap1.QAPExampleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QAPExampleTest.QAPExampleTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDAT_QAP11" />
       <extension name="coverage">
@@ -82,9 +98,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QAPExampleTest.QAPExampleTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDAT_QAP11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.keyin.qap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.keyin.qap1" />
+      <option name="MAIN_CLASS_NAME" value="com.keyin.qap1.QAPExampleTest" />
+      <option name="METHOD_NAME" value="QAPExampleTest3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.QAPExampleTest.QAPExampleTest1" />
+        <item itemvalue="JUnit.QAPExampleTest" />
+        <item itemvalue="JUnit.QAPExampleTest.QAPExampleTest3" />
         <item itemvalue="JUnit.QAPExampleTest.QAPExampleTest2" />
       </list>
     </recent_temporary>
@@ -147,6 +181,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit1" />
     <MESSAGE value="Commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit2" />
+    <MESSAGE value="FinalCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="FinalCommit" />
   </component>
 </project>
